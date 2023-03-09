@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwiftUptitudeTest", "SwiftUptitudeTest\SwiftUptitudeTest.csproj", "{14140413-7BEC-4B97-9AA8-4DC5AC9B5201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14140413-7BEC-4B97-9AA8-4DC5AC9B5201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14140413-7BEC-4B97-9AA8-4DC5AC9B5201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14140413-7BEC-4B97-9AA8-4DC5AC9B5201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14140413-7BEC-4B97-9AA8-4DC5AC9B5201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7211B9E-12C2-4D3D-BE51-A95AABF890C1}
+	EndGlobalSection
+EndGlobal
