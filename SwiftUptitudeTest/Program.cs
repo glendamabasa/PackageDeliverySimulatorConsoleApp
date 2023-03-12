@@ -29,7 +29,7 @@ while (tries <=3)
         Thread.Sleep(200); // delay for half a second
     }
     userDetails = fileHandler.ReadFromFile();
-
+    Console.WriteLine();
     if (userDetails.UserName == username && userDetails.Password==password)
     {
         Console.WriteLine("__________________________________________________________");

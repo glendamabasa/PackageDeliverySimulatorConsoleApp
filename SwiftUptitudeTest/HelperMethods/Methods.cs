@@ -188,17 +188,14 @@ namespace SwiftUptitudeTest.HelperMethods
            
 
             Console.ForegroundColor = ConsoleColor.Blue;
-
+            Console.WriteLine("");
             Console.WriteLine("========================================================");
             Console.WriteLine("Collection Information");
             Console.WriteLine("========================================================");
             Console.ResetColor();
 
             Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-
-
+           
             Console.WriteLine($"House No : {collectionDetails.HouseNo}");
             Console.WriteLine($"Address 1 : {collectionDetails.Address1}");
             Console.WriteLine($"Address 2 : {collectionDetails.Address2}");
@@ -213,6 +210,7 @@ namespace SwiftUptitudeTest.HelperMethods
             Console.WriteLine("Delivery Information");
             Console.WriteLine("========================================================");
             Console.ResetColor();
+            Console.WriteLine();
 
             Console.WriteLine($"House No : {deliveryDetails.HouseNo}");
             Console.WriteLine($"Address 1 : {deliveryDetails.Address1}");
